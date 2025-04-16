@@ -1,6 +1,7 @@
 # Reinforcement Learning Traffic Signal Control
 ## The code part of the thesis
-
+## report url
+https://ieeexplore.ieee.org/document/10767501
 ## Abstract
 Traffic signal control (TSC) is an effective method for easing traffic congestion and enhancing traffic efficiency in urban areas, particularly with the growing urbanization. Conventional traffic signal control techniques are unable to adapt swiftly to the intricate and dynamic road environment, necessitating a more intelligent approach to signal control. In recent years, there has been an increasing interest in employing reinforcement learning (RL) for TSC, which has displayed considerable potential in optimizing control strategies for complex traffic conditions. This article focuses on the application of RL in TSC for research purposes.
 
